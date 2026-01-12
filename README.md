@@ -7,8 +7,8 @@ Best,<br>
 Stephen Mathew
 <br>
 ## Projects
-1. [Out-of-Order RISC-V CPU](./Out_of_Order_RISC-V_CPU)
-2. [Pacman on FPGA](./Pacman_on_FPGA)
-3. [4-Way Set-Associative Write-Back Cache](./4-Way_Set-Associative_WB_Cache)
-4. [LC-3 CPU on FPGA](./LC-3_CPU_on_FPGA)
-5. [HDMI Text Controller on FPGA](./HDMI_Text_Controller_on_FPGA)
+1. [Out-of-Order RISC-V CPU](./01_Out_of_Order_RISC-V_CPU)
+2. [Pac-Man on FPGA](./02_Pac-Man_on_FPGA)
+3. [4-Way Set-Associative Write-Back Cache](./03_4-Way_Set-Associative_WB_Cache)
+4. [LC-3 CPU on FPGA](./04_LC-3_CPU_on_FPGA)
+5. [HDMI Text Controller on FPGA](./05_HDMI_Text_Controller_on_FPGA)
