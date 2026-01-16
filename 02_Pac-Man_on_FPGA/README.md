@@ -1,0 +1,1 @@
+# This project has a dedicated page on my website with images, a detailed explanation, and the full written report for deeper technical context. View everything here: [stephenmathew.com/pacman](stephenmathew.com/pacman)
