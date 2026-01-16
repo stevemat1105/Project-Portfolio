@@ -1,1 +1,2 @@
-A full write-up of this project, including images and a detailed explanation of the design and results, is available on my website. You can view it here: [stephenmathew.com/cache](https://stephenmathew.com/cache)
+A full write-up of this project, including images and a detailed explanation of the design and results, is available on my website:
+<a href="https://stephenmathew.com/cache" target="_blank" rel="noopener noreferrer">stephenmathew.com/cache</a>
