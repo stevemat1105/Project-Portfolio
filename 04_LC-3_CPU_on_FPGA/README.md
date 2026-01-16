@@ -1,1 +1,1 @@
-This project has a dedicated page on my website with images, a detailed explanation, and the full written report for deeper technical context. View everything here: [stephenmathew.com/lc3](https://stephenmathew.com/projects/lc-3-cpu)
+## This project has a dedicated page on my website with images, a detailed explanation, and the full written report for deeper technical context. View everything here: [stephenmathew.com/lc3](https://stephenmathew.com/projects/lc-3-cpu)
